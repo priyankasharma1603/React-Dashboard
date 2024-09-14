@@ -1,6 +1,4 @@
-Here's a README file with emoji support for your React project. This README includes sections for project overview, installation, usage, and additional instructions. I've included placeholders where specific project details should be filled in.
 
-```markdown
 # 📊 React Dashboard
 
 Welcome to the **React Dashboard** project! This is a modern, responsive dashboard built with React. It includes various components to display information and interact with users in a clean and intuitive manner.
