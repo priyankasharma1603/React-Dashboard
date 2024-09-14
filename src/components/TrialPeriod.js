@@ -8,7 +8,7 @@ const TrialPeriod = () => {
       className="bg-white p-4 rounded-md shadow-md relative overflow-hidden w-90 " // Set width to match
       style={{
         backgroundImage: `url(${backgroundImage})`,
-        backgroundSize: 'contain',  // Adjust background scaling
+        backgroundSize: 'cover',  // Adjust background scaling
         backgroundRepeat: 'no-repeat', // Prevent background repetition
         backgroundPosition: 'right', // Position the background to the right
       }}
